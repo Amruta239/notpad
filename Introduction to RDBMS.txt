@@ -1,0 +1,48 @@
+Introduction to RDBMS
+Introduction to databases
+Data Models in Database
+Properties of RDBMS
+Normalization
+CODD’s Relational Database Rules
+Data Integrity
+T-SQL Language
+Introduction to SQL Server
+What is SQL Server?
+SQL Server Components
+SQL Server Authentication Modes
+SQL Server Services
+SQL Server Version History
+SQL Server Editions
+Working with Data Types, Tables & Data Integrity covering DDL, DML, DCL statements
+Working with Data Types (Only Basics of Data Types)
+Working with Schema
+Working with Tables
+Implementing Data Integrity
+Beginning with Transact-SQL
+Transact-SQL
+System Functions
+Advanced T-SQL Queries`
+Advanced T-SQL Statements
+Other T-SQL Statements
+Set Operators
+Transact-SQL
+System Functions
+Advanced T-SQL Queries
+Advanced T-SQL Statements
+Other T-SQL Statements
+Working with Joins and Subqueries
+What are Joins?
+Types of joins
+Subqueries
+Database Objects: Indexes and Views
+Introduction to Index in SQL Server
+Introduction to Views in SQL Server
+Stored Procedures
+Stored Procedure
+Implementing Stored Procedure
+Exception handling using TRY-CATCH
+Implementing Triggers (Only Introduction)
+Introduction to Triggers
+Defining Triggers
+Transactions
+Introduction to Transactions

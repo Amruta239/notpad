@@ -1,0 +1,78 @@
+Introduction to C#
+Features of C#
+C# Compilation and Execution
+General Structure of a C# Program
+Data Types and Arrays in C#
+Data Types in C#
+Value Types and Reference Types
+Boxing and UnBoxing
+Single Dimensional, Multi-Dimensional & Jagged arrays
+Nullable Types
+Implicitly Typed Local variables
+Var vs dynamic
+Is and as operator
+Ref vs out keywords
+The ‘object’ base class in .net
+Equals() vs ==
+String vs StringBuilder
+Various String class methods
+Default parameters, named parameters
+Parse() vs TryParse() vs Convert Class methods
+ 
+ 
+OOP with C#
+Structures and enums
+The architecture of a class in C#
+Instance, Class & Reference variables
+Access Modifier
+Abstract Classes
+Constructors, Destructors, The GC
+.NET Base class library
+Inheritance in C#
+Method Overloading
+ing
+Method Hiding
+Access modifiers : private, pubic, protected, internal, protected internal, new
+Anonymous types
+Abstract classes
+Sealed classes
+Creating Interfaces
+Implementing Interface inheritance
+Declaring properties within Interfaces
+Namespaces
+Creating and using Generic classes
+Indexers & Properties
+Auto Implemented properties
+Static Classes
+Property Accessors
+Partial types
+Extension methods
+Object Initializer
+Evaluating Regular Expressions in C#
+RegEx Class
+Forming Regular Expression
+Methods for Regular Expression
+
+Exception Handling
+Exceptions in C#
+Exception class hierarchy
+Try block
+Multiple catch blocks
+Finally block
+Purpose of throw keyword
+Purpose of inner exception
+Creating Custom Exception
+Garbage Collection in C#
+Role of a Garbage Collector
+Garbage Collection Algorithm
+Finalize vs Dispose
+Collections & Generics
+System.Collections Namespace
+Collection Interfaces
+Collection Classes
+The collection API
+Working with Generics
+Creating Generic class, Generic Methods, Interfaces, Delegates
+Collection Initializers
+Iterators
+Constraints+

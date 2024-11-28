@@ -1,0 +1,43 @@
+Anonymous Types, Delegates, Events & Lambda
+Extension Methods
+Anonymous Type
+Var and Dynamic
+Introduction to Delegates
+Events in C#
+Anonymous Methods
+Lambda Expression
+Expression Tree
+File I/O and Serialization
+Using StreamReader, StreamWritter
+Using BinaryReader, BinaryWriter
+Using File, FileInfo, Directory, DirectoryInfo
+Serialization modes: Binary, SOAP, XML
+JSON serialization
+Threading, Parallel and Async programming with C#
+Task Parallel Library
+Threads Vs. Tasks
+Task Based Asynchronous Model
+Async and Await
+Using Locks
+
+New Features in C# 8.0
+ 
+Readonly members
+Default interface methods
+Pattern matching enhancements:
+Using declarations
+Static local functions
+Disposable ref structs
+Nullable reference types
+Asynchronous streams
+Asynchronous disposable
+Indices and ranges
+Null-coalescing assignment
+Unmanaged constructed types
+Stackalloc in nested expressions
+Enhancement of interpolated verbatim strings
+ 
+Dependency Injection
+ 
+SOLID principles
+ 
